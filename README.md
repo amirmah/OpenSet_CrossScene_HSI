@@ -2,7 +2,7 @@
 Hyperspectral Classification in Presence of Domain Shift and Unknown Samples
 * The manuscript describing our methodology is being submitted for peer review.
 <br>
-These codes are supposed to classify land covers using images taken by HSI sensors in which the target image exhibits domain shift and contains unknown samples that are not associated with any of the defined labels seen on source image during training of the network.
+These codes are supposed to classify land covers using images taken by HSI sensors in which the target image exhibits domain shift and contains unknown samples that are not associated with any of the defined labels seen on the source image during training of the network.
 <br>
 The codes were written in Python in the Jupyter Notebook environment and are implemented on three datasets: Botswana, Pavia, and Salinas.
 <br>
@@ -20,7 +20,7 @@ It is also possible to run the codes directly in Google Colab by using this patt
 <br>
 (colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/*notebook_file_name*)
 <br>
-For example to run the ‘Quickrun versions in Colab, you may use these URLs:
+For example to run the ‘Quickrun' versions in Colab, you may use these URLs:
 <br>
 Botswana: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/4-Botswana-Quickrun.ipynb
 <br>
