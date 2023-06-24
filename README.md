@@ -12,7 +12,7 @@ The implementation for Botswana can be found in 1-Botswana.ipynb.
 <br>
  The implementation for Salinas can be found in 3-Salinas.ipynb
 <br>
-The methodology consists of three steps which are described in the manuscript.The pretrained weights for each step is also provided. To execute the code more quickly, you can skip the trainings and load these pretrained weights. In the ipynb file, there is a note before each snippet of training that describes how you can load the weights and skip that snippet of training.
+The methodology consists of three steps which are described in the manuscript.The pretrained weights for each step are also provided. To execute the code more quickly, you can skip the trainings and load these pretrained weights. In the ipynb file, there is a note before each snippet of training that describes how you can load the weights and skip that snippet of training.
 <br>
 Alternatively, you can run the ‘Quickrun’ version of the ipynb files, which skips the trainings and loads the pretrained weights during execution.
 <br>
