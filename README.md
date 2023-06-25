@@ -18,14 +18,14 @@ Alternatively, you can run the ‘Quickrun’ version of the ipynb files, which 
 <br>
 It is also possible to run the codes directly in Google Colab by using this pattern as URL:
 <br>
-(colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/*notebook_file_name*)
+(colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/*notebook_file_name*)
 <br>
 For example to run the ‘Quickrun' versions in Colab, you may use these URLs:
 <br>
-Botswana: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/4-Botswana-Quickrun.ipynb
+Botswana: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/4-Botswana-Quickrun.ipynb
 <br>
-Pavia: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/5-Pavia-Quickrun.ipynb
+Pavia: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/5-Pavia-Quickrun.ipynb
 <br>
-Salinas: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/6-Salinas-Quickrun.ipynb
+Salinas: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/6-Salinas-Quickrun.ipynb
 
 
