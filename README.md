@@ -22,10 +22,16 @@ It is also possible to run the codes directly in Google Colab by using this patt
 <br>
 For example to run the ‘Quickrun' versions in Colab, you may use these URLs:
 <br>
-Botswana: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/4-Botswana-Quickrun.ipynb
+Botswana:
 <br>
-Pavia: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/5-Pavia-Quickrun.ipynb
+https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/4-Botswana-Quickrun.ipynb
 <br>
-Salinas: https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/6-Salinas-Quickrun.ipynb
+Pavia:
+<br>
+https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/5-Pavia-Quickrun.ipynb
+<br>
+Salinas:
+<br>
+https://colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/6-Salinas-Quickrun.ipynb
 
 
