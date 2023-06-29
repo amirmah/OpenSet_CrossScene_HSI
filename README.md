@@ -20,7 +20,7 @@ It is also possible to run the codes directly in Google Colab by using this patt
 <br>
 (colab.research.google.com/github/amirmah/OpenSet_CrossScene_HSI/blob/main/*notebook_file_name*)
 <br>
-For example to run the ‘Quickrun' versions in Colab, you may use these URLs:
+For example, you may use these URLs to run the ‘Quickrun' versions in Colab:
 <br>
 Botswana:
 <br>
