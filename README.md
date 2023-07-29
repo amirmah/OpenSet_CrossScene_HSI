@@ -1,6 +1,6 @@
 # OpenSet_CrossScene_HSI
 Hyperspectral Classification in Presence of Domain Shift and Unknown Samples
-* The manuscript describing our methodology is being submitted for peer review.
+* The manuscript describing our methodology is currently under peer review. (<a href="https://dx.doi.org/10.2139/ssrn.4502474" target="_blank">Preprint</a>)
 <br>
 These codes are supposed to classify land covers using images taken by HSI sensors in which the target image exhibits domain shift and contains unknown samples that are not associated with any of the defined labels seen on the source image during training of the network.
 <br>
